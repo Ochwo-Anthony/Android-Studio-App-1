@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestingApp3</string>
+    <string name="txtEnterName">Name</string>
+    <string name="lblenter_your_name">Enter your name:</string>
+    <string name="btnClear">Clear</string>
+    <string name="btnsubmit">Submit</string>
+    <string name="lblDisplay">Welcome, %1$s!</string>
+    <string name="lblEmpty">Please Enter Name</string>
+</resources>
